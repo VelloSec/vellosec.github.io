@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Cybersecurity, homelab and selfhosting, random thoughts, etc.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://vellosec.net"
+url: "https://vellosec.github.io"
 
 github:
   username: vellosec
